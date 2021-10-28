@@ -1,0 +1,2 @@
+Una cadena que permita las letras minúsculas que sean vocales cerradas y los dígitos mayores a 1 y menores a 7.
+x(10)[{i,u}, {2,3,4,5,6}]

@@ -1,0 +1,16 @@
+Generar un algoritmo que permita calcular y mostrar el valor a cancelar de una planilla de luz. Se debe ingresar el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se debe descontrar el 10%.
+1. Se pide ingresar el nombre del usuario 
+
+2. Se pide ingresar el valor de costo por kilovatio/hora
+2. Se ingresa el valor de costo por kilovatio/hora 
+3. Se pide ingresar el número de kilovatios consumidos en el mes
+4. Se ingresa el número de kilovatios consumidos en el mes
+5. Se multiplica el costo de kilovatios/hora por el número de kilovatios consumidos en el mes
+6. Se obtiene el resultado del producto 
+7. Se pide ingresar el año de nacimiento del usuario 
+8. Verificar si el usuario tiene una edad >= 65 años
+9. Si el usuario tiene una edad  < 65 años, se muestra mensaje de fin.
+10. Si el usuario tiene una edad >= 65 años, se multiplica el producto del paso 6 por el 10%
+11. Se resta al producto obtenido en el paso 6 menos el producto del paso 10.
+12. Se muestra el resultado del descuento.
+13. Fin

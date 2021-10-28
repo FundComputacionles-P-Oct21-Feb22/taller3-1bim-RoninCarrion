@@ -1,0 +1,2 @@
+Representar un dominio para los número enteros del 10 al 200; excepto los pares de 50 al 60.
+¡{[10-200] [50, 52, 54, 56, 58, 60]}
